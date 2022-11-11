@@ -1,0 +1,14 @@
+canvas{
+    animation-name: suiiii;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes suiiii{
+    from{box-shadow:1px 1px 40px green;}
+    to{box-shadow:1px 1px 40px yellow;}
+}
+
+.btn-success:hover{
+background-color: red;
+}
